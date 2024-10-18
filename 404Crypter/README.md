@@ -1,8 +1,7 @@
-It is an advanced type of software that has the ability to encrypt or manipulate the malware, making it harder to detect by any protection program.
+# It is an advanced type of software that has the ability to encrypt or manipulate the malware, making it harder to detect by any protection program.
 
-This incredible program gives you all fantastic features like a startup, obfuscator, main menu, icon changer extension spoofer, etc.
+## This incredible program gives you all fantastic features like a startup, obfuscator, main menu, icon changer extension spoofer, etc.
 
-404-crypter.PNG
 
 This incredible tool is a way of demonstrating a crypter to undetect an executable of the remote administration tools better known as RATs.
 
@@ -10,9 +9,12 @@ Basically, the crudest technique for crypters is amongly known as obfuscation. W
 
 In this tool, you will get a fantastic feature named custom process name, through this incredible feature you can persist or hide the process that you have done.
 
+
+![404crypter](https://github.com/user-attachments/assets/3dfa82ad-fbba-464b-8913-531556f01b6e)
+
 ​
 Features​
-There are so many features in the 404 Crypter Cracked software and some of them are as follows below.
+There are so many features in the 404 Crypter software and some of them are as follows below.
 
     Startup
     Fully featured
